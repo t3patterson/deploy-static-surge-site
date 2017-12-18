@@ -1,0 +1,18 @@
+@import "./imports/_normalize.scss";
+
+*{ box-sizing: border-box }
+
+img {
+   width: 100%;
+   display: block;
+}
+
+body {
+  background: rebeccapurple;
+  color: #fff;
+  font-weight: 200;
+  font-family: sans-serif;
+}
+
+#app-container{
+}
